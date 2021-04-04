@@ -4,7 +4,7 @@
 
 ### Repositories stats
 
-![MrMimic stats](https://github-readme-stats.vercel.app/api?username=MrMimic&show_icons=true)
+![MrMimic stats](https://github-readme-stats.vercel.app/api?username=MrMimic&show_icons=true&theme=radical)
 
 ### Technical stack
 
