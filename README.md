@@ -25,3 +25,10 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ni_labview/ni_labview-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+
+### Public profiles
+
+[Google Scholar](https://scholar.google.com/citations?user=pkyOaXwAAAAJ&hl=en)
+[ResearchGate](https://www.researchgate.net/profile/Emeric-Dynomant)
+[ORCID](https://orcid.org/0000-0001-9535-9304)
+[LinkedIn](https://www.linkedin.com/in/emeric-dynomant/)
