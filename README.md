@@ -1,4 +1,4 @@
-### Emeric DYNOMANT
+# Emeric DYNOMANT
 
 [![Github](https://img.shields.io/github/followers/MrMimic?label=Follow&style=social)](https://github.com/MrMimic)
 
