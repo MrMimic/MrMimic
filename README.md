@@ -2,7 +2,7 @@
 
 Développer with a strong background in MLops, data engineering, software development, time-series analysis and NLP tasks, both for research or industry. Also skilled in genetics analysis and coffee making.
 
-I'm currently interessed in chatbots, voicebots, STT/TTS and natural langage.
+I'm currently interessed in chatbots, voicebots, STT/TTS and social robotics.
 
 [![Github](https://img.shields.io/github/followers/MrMimic?label=Follow&style=social)](https://github.com/MrMimic)
 
