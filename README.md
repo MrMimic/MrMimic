@@ -1,6 +1,6 @@
 # Emeric DYNOMANT
 
-Développer with a strong background in MLops, data engineering, software development, time-series analysis and NLP tasks, both for research or industry. Also skilled in genetics analysis and coffee making.
+Développer with a strong background in MLops, data engineering, software development (micro-services/APIs architectures), time-series analysis and NLP tasks, both for research or industry. Also skilled in genetics analysis and coffee making.
 
 I'm currently interessed in chatbots, voicebots, STT/TTS and social robotics.
 
