@@ -12,7 +12,7 @@ I'm currently interessed in chatbots, voicebots, STT/TTS and social robotics.
 
 ### Technical stack
 
-<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/linux/linux-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
