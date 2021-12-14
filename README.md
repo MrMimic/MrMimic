@@ -14,6 +14,7 @@ I'm currently interessed in chatbots, voicebots, STT/TTS and social robotics.
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-ar21.svg"></code>
@@ -30,7 +31,9 @@ I'm currently interessed in chatbots, voicebots, STT/TTS and social robotics.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ni_labview/ni_labview-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-
+<code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/azurecontainerregistry/azurecontainerregistry-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
 
 ### Public profiles
 
