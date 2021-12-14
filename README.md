@@ -21,7 +21,6 @@ I'm currently interessed in chatbots, voicebots, STT/TTS and social robotics.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud_run/google_cloud_run-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/influxdata/influxdata-ar21.svg"></code>
