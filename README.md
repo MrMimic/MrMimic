@@ -1,16 +1,18 @@
 # Emeric DYNOMANT
 
-Développer with a strong background in MLops, data engineering, software development (micro-services/APIs architectures), time-series analysis and NLP tasks, both for research or industry. Also skilled in genetics analysis and coffee making.
+I'm a developer with a strong background in **MLops**, **data engineering**, **software development** (micro-services/APIs architectures), **time-series analysis** and **NLP/NLU** tasks, both for research or industry. I also worked for a while in chatbots/voicebots developments, STT/TTS and social robotics (Furhat technologies).
 
-I'm currently interessed in chatbots, voicebots, STT/TTS and social robotics.
+Due to my univ background, I'm also skilled in genetics analysis and coffee making (well, not because of the univ background for this one).
+
+I'm curently interested into everything that is around data science models: MLops, data engineering, DevOps and code quality, model integration/deployements, etc.
 
 [![Github](https://img.shields.io/github/followers/MrMimic?label=Follow&style=social)](https://github.com/MrMimic)
 
-### Repositories stats
+### Github repositories stats
 
 ![MrMimic stats](https://github-readme-stats.vercel.app/api?username=MrMimic&show_icons=true&theme=dracula)
 
-### Technical stack
+### Technical stack (non-exhaustive, non-ordered)
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -34,7 +36,7 @@ I'm currently interessed in chatbots, voicebots, STT/TTS and social robotics.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/azurecontainerregistry/azurecontainerregistry-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
 
-### Public profiles
+### Reach me on my public profiles
 
 [Google Scholar](https://scholar.google.com/citations?user=pkyOaXwAAAAJ&hl=en)
 
