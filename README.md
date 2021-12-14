@@ -1,6 +1,6 @@
 # Emeric DYNOMANT
 
-I'm a developer with a strong background in **MLops**, **data engineering**, **software development** (micro-services/APIs architectures), **time-series analysis** and **NLP/NLU** tasks, both for research or industry. I also worked for a while in chatbots/voicebots developments, STT/TTS and social robotics (Furhat technologies).
+I'm a developer with a strong background in **MLops**, **data engineering**, **software development** (micro-services/APIs architectures), **time-series analysis** and **NLP/NLU** tasks, both for research or industry. I also worked for a while in chatbots/voicebots development, STT/TTS and social robotics (Furhat technologies).
 
 Due to my univ background, I'm also skilled in genetics analysis and coffee making (well, not because of the univ background for this one).
 
