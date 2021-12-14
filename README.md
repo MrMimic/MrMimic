@@ -6,11 +6,15 @@ Due to my univ background, I'm also skilled in genetics analysis and coffee maki
 
 I'm curently interested into everything that is around data science models: MLops, data engineering, DevOps and code quality, model integration/deployements, etc.
 
+
 [![Github](https://img.shields.io/github/followers/MrMimic?label=Follow&style=social)](https://github.com/MrMimic)
+
 
 ### Github repositories stats
 
+
 ![MrMimic stats](https://github-readme-stats.vercel.app/api?username=MrMimic&show_icons=true&theme=dracula)
+
 
 ### Technical stack (non-exhaustive, non-ordered)
 
