@@ -1,6 +1,6 @@
 # Emeric DYNOMANT
 
-I'm a developer with a strong background in **MLops**, **data engineering**, **software development**, **time-series analysis** and **NLP/NLU** tasks, both for research or industry. I also worked for a while in chatbots/voicebots development, STT/TTS and social robotics (Furhat technologies).
+I'm a developer with a strong background in **MLops**, **data engineering**, **software development**, **time-series analysis**, **cloud architecture** and **NLP/NLU** tasks, both for research or industry. I also worked for a while in chatbots/voicebots development, STT/TTS and social robotics (Furhat technologies).
 
 Due to my univ background, I'm also skilled in genetics analysis and coffee making (well, not because of the univ background for this one).
 
@@ -8,8 +8,11 @@ I'm curently interested into everything that is around data science models: MLop
 
 And during my spare time, I like mountain-related sports (ski touring, climbing, enduro bike, trail, hiking) or boards-related sports (snowboard, skateboard, kite-surf).
 
+[Personal website](https://data-baguette.com/)
 
-[![Github](https://img.shields.io/github/followers/MrMimic?label=Follow&style=social)](https://github.com/MrMimic)
+[Associated blog](https://blog.data-baguette.com/)
+
+[![Github](https://img.shields.io/github/followers/MrMimic?label=Follow&style=social)](https://github.com/MrMimic) me on Github!
 
 
 ### Github repositories stats
