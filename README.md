@@ -4,7 +4,7 @@ I'm a developer with a strong background in **MLops**, **data engineering**, **s
 
 Due to my univ background, I'm also skilled in genetics analysis and coffee making (well, not because of the univ background for this one).
 
-I'm curently interested into everything that is around data science models: MLops, data engineering, DevOps and code quality, model integration/deployements, etc.
+I'm curently interested into everything that is around data science models: MLops, data engineering, DevOps and code quality, model integration/deployements via CICDs, etc.
 
 And during my spare time, I like mountain-related sports (ski touring, climbing, enduro bike, trail, hiking) or board-related sports (snowboard, skateboard, kite-surf).
 
