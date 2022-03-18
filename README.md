@@ -6,7 +6,7 @@ Due to my univ background, I'm also skilled in genetics analysis and coffee maki
 
 I'm curently interested into everything that is around data science models: MLops, data engineering, DevOps and code quality, model integration/deployements via CICDs, etc.
 
-And during my spare time, I like mountain-related sports (ski touring, climbing, enduro bike, trail, hiking) or board-related sports (snowboard, skateboard, kite-surf).
+And during my spare time, I like mountain-related sports (ski touring, climbing, enduro bike, trail, hiking) or boards-related sports (snowboard, skateboard, kite-surf).
 
 
 [![Github](https://img.shields.io/github/followers/MrMimic?label=Follow&style=social)](https://github.com/MrMimic)
