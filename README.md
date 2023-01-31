@@ -2,7 +2,7 @@
 
 I'm a developer with a strong background in **MLops**, **data engineering**, **software development**, **time-series analysis**, **cloud architecture** and **NLP/NLU** tasks, both for research or industry. I also worked for a while in chatbots/voicebots development, STT/TTS and social robotics (Furhat technologies).
 
-Due to my univ background, I'm also skilled in genetics analysis and coffee making (well, not because of the univ background for this one).
+Due to my univ background, I'm also skilled in genetics analysis and coffee making.
 
 I'm curently interested into everything that is around data science models: MLops, data engineering, DevOps and code quality, model integration/deployements via CICDs, etc.
 
