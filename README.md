@@ -49,8 +49,4 @@ And during my spare time, I like mountain-related sports (ski touring, climbing,
 
 [Google Scholar](https://scholar.google.com/citations?user=pkyOaXwAAAAJ&hl=en)
 
-[ResearchGate](https://www.researchgate.net/profile/Emeric-Dynomant)
-
-[ORCID](https://orcid.org/0000-0001-9535-9304)
-
 [LinkedIn](https://www.linkedin.com/in/emeric-dynomant/)
