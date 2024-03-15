@@ -8,7 +8,7 @@ I'm curently interested into everything that is around data science models: MLop
 
 And during my spare time, I like mountain-related sports (ski touring, climbing, enduro bike, trail, hiking) or boards-related sports (snowboard, skateboard, kite-surf).
 
-[![Github](https://img.shields.io/github/followers/MrMimic?label=Follow&style=social)](https://github.com/MrMimic) me on Github!
+[![Github](https://img.shields.io/github/followers/MrMimic?label=Follow&style=social)](https://github.com/MrMimic)
 
 
 ### Github repositories stats
